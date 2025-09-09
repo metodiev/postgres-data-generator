@@ -1,0 +1,18 @@
+databases:
+  main_db:
+    host: localhost
+    port: 5432
+    user: admin
+    password: admin123
+    name: e_database
+
+  admin_db:
+    host: localhost
+    port: 5433
+    user: admin
+    password: admin123
+    name: admin_panel_db
+
+defaults:
+  schema: public
+  rows_per_table: 100

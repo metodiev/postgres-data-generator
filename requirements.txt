@@ -1,0 +1,5 @@
+# requirements.txt
+SQLAlchemy==2.0.30
+psycopg2-binary>=2.9.10
+Faker==25.2.0
+PyYAML==6.0.2
