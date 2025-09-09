@@ -29,6 +29,7 @@ A Python-based data generator to populate multiple PostgreSQL tables with realis
 ```bash
 git clone <your-repo-url>
 cd postgres-data-generator
+```
 
 ## Create a virtual environment
 
